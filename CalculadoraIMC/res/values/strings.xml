@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IMCActivity!</string>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="calculadora_de_imc">Calculadora de IMC</string>
+    <string name="altura_">Altura:</string>
+    <string name="introduce_tu_altura">Introduce tu altura</string>
+    <string name="_cms_">(cms)</string>
+    <string name="peso_">Peso:</string>
+    <string name="introduce_tu_peso">Introduce tu peso</string>
+    <string name="_kg_">(kg)</string>
+    <string name="c_lculo_de_imc">Cálculo de IMC</string>
+    <string name="sexo_">Sexo:</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="a_o_de_nacimiento_">Año de nacimiento:</string>
+    <string name="c_lculo_de_igce">Cálculo de IGCE</string>
+
+</resources>

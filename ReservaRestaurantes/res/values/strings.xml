@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">ReservaRestaurantes</string>
+    <string name="about">about</string>
+    <string name="lista_vac_a">Lista vacía</string>
+    <string name="introduzca_el_nombre">Introduzca el nombre</string>
+    <string name="restaurante_">Restaurante:</string>
+    <string name="introduzca_la_direcci_n">Introduzca la dirección</string>
+    <string name="direcci_n_">Dirección:</string>
+    <string name="introduzca_un_n_mero_de_tel_fono">Introduzca un número de teléfono</string>
+    <string name="tel_fono_">Teléfono:</string>
+    <string name="tipo_restaurante_">Tipo Restaurante:</string>
+    <string name="tradicional">Tradicional</string>
+    <string name="internacional">Internacional</string>
+    <string name="camida_r_pida">Camida rápida</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="llamar">LLAMAR</string>
+
+</resources>

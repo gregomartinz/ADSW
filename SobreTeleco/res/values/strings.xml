@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SobreTelecoActivity!</string>
+    <string name="app_name">SobreTeleco</string>
+    <string name="la_escuela">La escuela</string>
+    <string name="sobre_la_escuela">Sobre la escuela</string>
+    <string name="sobre_teleco_mensaje">La escuela decana en Ingeniería de Telecomunicación</string>
+
+</resources>
